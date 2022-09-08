@@ -1,0 +1,6 @@
+Name;IoTreePath;IsIndependentProjectFile;FileName;FileExists;IsDisabled
+Device 1 (EtherCAT);Device 1 (EtherCAT);False;TopologyRenderer.tsproj;False;False
+Device 2 (EtherCAT);Device 2 (EtherCAT);False;TopologyRenderer.tsproj;False;False
+Device 3 (EtherCAT);Device 3 (EtherCAT);False;TopologyRenderer.tsproj;False;False
+Device 4 (EtherCAT);Device 4 (EtherCAT);False;TopologyRenderer.tsproj;False;True
+Device 5 (EtherCAT);Device 5 (EtherCAT);False;TopologyRenderer.tsproj;False;True

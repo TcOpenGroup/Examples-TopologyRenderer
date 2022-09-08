@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Plc1Connector
+build_property.ProjectDir = D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\

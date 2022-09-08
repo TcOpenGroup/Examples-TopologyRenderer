@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Tomas_K\.nuget\packages\;C:\Program Files\dotnet\sdk\NuGetFallbackFolder</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.11.2</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\Tomas_K\.nuget\packages\" />
+    <SourceRoot Include="C:\Program Files\dotnet\sdk\NuGetFallbackFolder\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(TargetFramework)' == 'net48' AND '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgInxton_vortex_compiler_console Condition=" '$(PkgInxton_vortex_compiler_console)' == '' ">C:\Users\Tomas_K\.nuget\packages\inxton.vortex.compiler.console\1.15.10-alpha.735</PkgInxton_vortex_compiler_console>
+    <PkgInxton_Vortex_Presentation_Controls_Wpf Condition=" '$(PkgInxton_Vortex_Presentation_Controls_Wpf)' == '' ">C:\Users\Tomas_K\.nuget\packages\inxton.vortex.presentation.controls.wpf\1.15.10-alpha.735</PkgInxton_Vortex_Presentation_Controls_Wpf>
+    <PkgMicrosoft_Xaml_Behaviors_Wpf Condition=" '$(PkgMicrosoft_Xaml_Behaviors_Wpf)' == '' ">C:\Users\Tomas_K\.nuget\packages\microsoft.xaml.behaviors.wpf\1.1.31</PkgMicrosoft_Xaml_Behaviors_Wpf>
+    <PkgMaterialDesignThemes Condition=" '$(PkgMaterialDesignThemes)' == '' ">C:\Users\Tomas_K\.nuget\packages\materialdesignthemes\4.4.0</PkgMaterialDesignThemes>
+    <PkgTcOpen_Inxton_TcoCore_Wpf Condition=" '$(PkgTcOpen_Inxton_TcoCore_Wpf)' == '' ">C:\Users\Tomas_K\.nuget\packages\tcopen.inxton.tcocore.wpf\0.9.0-alpha.4</PkgTcOpen_Inxton_TcoCore_Wpf>
+    <PkgInxton_iXlinker Condition=" '$(PkgInxton_iXlinker)' == '' ">C:\Users\Tomas_K\.nuget\packages\inxton.ixlinker\0.1.4-alpha.100</PkgInxton_iXlinker>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(TargetFramework)' == 'net5.0-windows' AND '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgInxton_vortex_compiler_console Condition=" '$(PkgInxton_vortex_compiler_console)' == '' ">C:\Users\Tomas_K\.nuget\packages\inxton.vortex.compiler.console\1.15.10-alpha.735</PkgInxton_vortex_compiler_console>
+    <PkgInxton_Vortex_Presentation_Controls_Wpf Condition=" '$(PkgInxton_Vortex_Presentation_Controls_Wpf)' == '' ">C:\Users\Tomas_K\.nuget\packages\inxton.vortex.presentation.controls.wpf\1.15.10-alpha.735</PkgInxton_Vortex_Presentation_Controls_Wpf>
+    <PkgMicrosoft_Xaml_Behaviors_Wpf Condition=" '$(PkgMicrosoft_Xaml_Behaviors_Wpf)' == '' ">C:\Users\Tomas_K\.nuget\packages\microsoft.xaml.behaviors.wpf\1.1.31</PkgMicrosoft_Xaml_Behaviors_Wpf>
+    <PkgMaterialDesignThemes Condition=" '$(PkgMaterialDesignThemes)' == '' ">C:\Users\Tomas_K\.nuget\packages\materialdesignthemes\4.4.0</PkgMaterialDesignThemes>
+    <PkgTcOpen_Inxton_TcoCore_Wpf Condition=" '$(PkgTcOpen_Inxton_TcoCore_Wpf)' == '' ">C:\Users\Tomas_K\.nuget\packages\tcopen.inxton.tcocore.wpf\0.9.0-alpha.4</PkgTcOpen_Inxton_TcoCore_Wpf>
+    <PkgInxton_iXlinker Condition=" '$(PkgInxton_iXlinker)' == '' ">C:\Users\Tomas_K\.nuget\packages\inxton.ixlinker\0.1.4-alpha.100</PkgInxton_iXlinker>
+  </PropertyGroup>
+</Project>

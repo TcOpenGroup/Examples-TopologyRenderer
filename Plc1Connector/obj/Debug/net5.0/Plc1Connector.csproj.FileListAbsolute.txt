@@ -1,0 +1,17 @@
+D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\bin\Debug\net5.0\Plc1Connector.deps.json
+D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\bin\Debug\net5.0\Plc1Connector.dll
+D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\bin\Debug\net5.0\ref\Plc1Connector.dll
+D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\bin\Debug\net5.0\Plc1Connector.pdb
+D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\bin\Debug\net5.0\System.Reactive.dll
+D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\bin\Debug\net5.0\System.Reactive.xml
+D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\obj\Debug\net5.0\Plc1Connector.Properties.Localizations.resources
+D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\obj\Debug\net5.0\Plc1Connector.csproj.GenerateResource.cache
+D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\obj\Debug\net5.0\Plc1Connector.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\obj\Debug\net5.0\Plc1Connector.AssemblyInfoInputs.cache
+D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\obj\Debug\net5.0\Plc1Connector.AssemblyInfo.cs
+D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\obj\Debug\net5.0\Plc1Connector.csproj.CoreCompileInputs.cache
+D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\obj\Debug\net5.0\Plc1Connector.csproj.CopyComplete
+D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\obj\Debug\net5.0\Plc1Connector.dll
+D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\obj\Debug\net5.0\ref\Plc1Connector.dll
+D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\obj\Debug\net5.0\Plc1Connector.pdb
+D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\obj\Debug\net5.0\Plc1Connector.csproj.AssemblyReference.cache

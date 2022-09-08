@@ -1,0 +1,483 @@
+2022-08-17 10:55:33.181 +02:00 [INF] iXlinker started
+2022-08-17 10:55:33.192 +02:00 [INF] with arguments:
+2022-08-17 10:55:33.193 +02:00 [INF] -t D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj -p Release|TwinCAT RT (x64) -c D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\Plc1.plcproj -g False -d C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\devenv.com -n 0
+2022-08-17 10:55:34.696 +02:00 [INF] Reading IO devices in the XAE project: "TopologyRenderer"!!!
+2022-08-17 10:55:34.951 +02:00 [INF] Not unique pdo name Inputs found in box name R3_FESTO (CMMP-AS V4p0 CiA402), box type CMMP-AS V4p0 CiA402!!!
+2022-08-17 10:55:34.953 +02:00 [INF] 	 Renamed to Inputs_1!!!
+2022-08-17 10:55:34.964 +02:00 [INF] Not unique pdo name Inputs found in box name R4_FESTO (CMMP-AS V4p0 CiA402), box type CMMP-AS V4p0 CiA402!!!
+2022-08-17 10:55:34.966 +02:00 [INF] 	 Renamed to Inputs_1!!!
+2022-08-17 10:55:35.766 +02:00 [INF] PdoEntryStructures :28
+2022-08-17 10:55:35.767 +02:00 [INF] PdoStructures :83
+2022-08-17 10:55:35.768 +02:00 [INF] BoxStructures :40
+2022-08-17 10:55:35.769 +02:00 [INF] DeviceStructures :5
+2022-08-17 10:55:35.770 +02:00 [INF] TopologyStructures :134
+2022-08-17 10:55:35.771 +02:00 [INF] Cleaning existing GVL!
+2022-08-17 10:55:35.772 +02:00 [INF] Existing GVL cleared!
+2022-08-17 10:55:35.772 +02:00 [INF] Cleaning existing DUTs!
+2022-08-17 10:55:35.850 +02:00 [INF] Existing DUTs cleared!
+2022-08-17 10:55:35.851 +02:00 [INF] Exporting Pdo entry structures to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PdoEntries
+2022-08-17 10:55:35.904 +02:00 [INF] PDO entry structures exported!!!
+2022-08-17 10:55:35.905 +02:00 [INF] Adding PDO entry structures into the PLC project!!!
+2022-08-17 10:55:35.906 +02:00 [INF] PDO entry structures added into the PLC project!!!
+2022-08-17 10:55:35.906 +02:00 [INF] Exporting Pdo structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PDOs"
+2022-08-17 10:55:35.929 +02:00 [INF] PDO structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PDOs" !!!
+2022-08-17 10:55:35.931 +02:00 [INF] Adding PDO structures into the PLC project!!!
+2022-08-17 10:55:35.932 +02:00 [INF] PDO structures added into the PLC project!!!
+2022-08-17 10:55:35.933 +02:00 [INF] Exporting Box structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Boxes"
+2022-08-17 10:55:35.948 +02:00 [INF] Box structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Boxes" !!!
+2022-08-17 10:55:35.950 +02:00 [INF] Adding Box structures into the PLC project!!!
+2022-08-17 10:55:35.951 +02:00 [INF] Box structures added into the PLC project!!!
+2022-08-17 10:55:35.952 +02:00 [INF] Exporting Device structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Devices"
+2022-08-17 10:55:35.957 +02:00 [INF] Device structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Devices" !!!
+2022-08-17 10:55:35.959 +02:00 [INF] Adding Device structures into the PLC project!!!
+2022-08-17 10:55:35.960 +02:00 [INF] Device structures added into the PLC project!!!
+2022-08-17 10:55:35.961 +02:00 [INF] Exporting Topology structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Topology"
+2022-08-17 10:55:36.135 +02:00 [INF] Topology structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Topology" !!!
+2022-08-17 10:55:36.137 +02:00 [INF] Adding Topology structures into the PLC project!!!
+2022-08-17 10:55:36.138 +02:00 [INF] Topology structures added into the PLC project!!!
+2022-08-17 10:55:36.139 +02:00 [INF] Exporting Base structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Base"
+2022-08-17 10:55:36.146 +02:00 [INF] Base structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Base" !!!
+2022-08-17 10:55:36.147 +02:00 [INF] Adding Base structures into the PLC project!!!
+2022-08-17 10:55:36.148 +02:00 [INF] Base structures added into the PLC project!!!
+2022-08-17 10:55:36.149 +02:00 [INF] Exporting GVL : GVL_iXlinker to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\GVLs
+2022-08-17 10:55:36.151 +02:00 [INF] GVL GVL_iXlinker exported to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\GVLs
+2022-08-17 10:55:36.152 +02:00 [INF] Adding GVL into the PLC project!!!
+2022-08-17 10:55:36.153 +02:00 [INF] GVL added into the PLC project!
+2022-08-17 10:55:36.156 +02:00 [INF] Writing changes of the PLC project Plc1 into the file Plc1.plcproj!!!
+2022-08-17 10:55:36.166 +02:00 [INF] Changes of the PLC project Plc1 written into the file Plc1.plcproj!!!
+2022-08-17 10:55:36.168 +02:00 [INF] Starting process Filename: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\devenv.com", Arguments: ""D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" /build "Release|TwinCAT RT (x64)" /Out "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\\build.txt""
+2022-08-17 10:55:36.169 +02:00 [INF] Building XAE project: "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" !!!
+2022-08-17 10:56:20.875 +02:00 [INF] XAE project: "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" built
+2022-08-17 10:56:20.877 +02:00 [INF]  in 44704 ms!!!
+2022-08-17 10:56:20.878 +02:00 [INF] Generating mappings into the project file D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-17 10:56:21.301 +02:00 [INF] Mappings generated into the project file D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-17 10:56:21.303 +02:00 [INF] Complete process 48109 ms!!!
+2022-08-17 20:22:09.201 +02:00 [INF] iXlinker started
+2022-08-17 20:22:09.209 +02:00 [INF] with arguments:
+2022-08-17 20:22:09.210 +02:00 [INF] -t D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj -p Release|TwinCAT RT (x64) -c D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\Plc1.plcproj -g True -d C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\devenv.com -n 0
+2022-08-17 20:22:10.701 +02:00 [INF] Reading IO devices in the XAE project: "TopologyRenderer"!!!
+2022-08-17 20:22:10.707 +02:00 [INF] Disabled device: Device 1 (EtherCAT) found in the XAE project file: D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-17 20:22:10.708 +02:00 [INF] Disabled device: Device 2 (EtherCAT) found in the XAE project file: D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-17 20:22:10.710 +02:00 [INF] Disabled device: Device 3 (EtherCAT) found in the XAE project file: D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-17 20:22:10.712 +02:00 [INF] Disabled device: Device 4 (EtherCAT) found in the XAE project file: D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-17 20:22:10.713 +02:00 [INF] Disabled device: Device 5 (EtherCAT) found in the XAE project file: D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-17 20:22:10.714 +02:00 [INF] There are no unmapped devices
+2022-08-17 20:22:10.715 +02:00 [INF] PdoEntryStructures :0
+2022-08-17 20:22:10.716 +02:00 [INF] PdoStructures :0
+2022-08-17 20:22:10.717 +02:00 [INF] BoxStructures :0
+2022-08-17 20:22:10.718 +02:00 [INF] DeviceStructures :0
+2022-08-17 20:22:10.720 +02:00 [INF] TopologyStructures :0
+2022-08-17 20:22:10.722 +02:00 [INF] Cleaning existing GVL!
+2022-08-17 20:22:10.723 +02:00 [INF] Existing GVL cleared!
+2022-08-17 20:22:10.724 +02:00 [INF] Cleaning existing DUTs!
+2022-08-17 20:22:10.725 +02:00 [INF] Existing DUTs cleared!
+2022-08-17 20:22:10.726 +02:00 [INF] Exporting Pdo entry structures to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PdoEntries
+2022-08-17 20:22:10.728 +02:00 [INF] PDO entry structures exported!!!
+2022-08-17 20:22:10.729 +02:00 [INF] Adding PDO entry structures into the PLC project!!!
+2022-08-17 20:22:10.731 +02:00 [INF] PDO entry structures added into the PLC project!!!
+2022-08-17 20:22:10.732 +02:00 [INF] Exporting Pdo structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PDOs"
+2022-08-17 20:22:10.734 +02:00 [INF] PDO structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PDOs" !!!
+2022-08-17 20:22:10.736 +02:00 [INF] Adding PDO structures into the PLC project!!!
+2022-08-17 20:22:10.737 +02:00 [INF] PDO structures added into the PLC project!!!
+2022-08-17 20:22:10.738 +02:00 [INF] Exporting Box structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Boxes"
+2022-08-17 20:22:10.741 +02:00 [INF] Box structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Boxes" !!!
+2022-08-17 20:22:10.743 +02:00 [INF] Adding Box structures into the PLC project!!!
+2022-08-17 20:22:10.744 +02:00 [INF] Box structures added into the PLC project!!!
+2022-08-17 20:22:10.745 +02:00 [INF] Exporting Device structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Devices"
+2022-08-17 20:22:10.747 +02:00 [INF] Device structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Devices" !!!
+2022-08-17 20:22:10.749 +02:00 [INF] Adding Device structures into the PLC project!!!
+2022-08-17 20:22:10.751 +02:00 [INF] Device structures added into the PLC project!!!
+2022-08-17 20:22:10.752 +02:00 [INF] Exporting Topology structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Topology"
+2022-08-17 20:22:10.754 +02:00 [INF] Topology structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Topology" !!!
+2022-08-17 20:22:10.756 +02:00 [INF] Adding Topology structures into the PLC project!!!
+2022-08-17 20:22:10.757 +02:00 [INF] Topology structures added into the PLC project!!!
+2022-08-17 20:22:10.758 +02:00 [INF] Exporting Base structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Base"
+2022-08-17 20:22:10.762 +02:00 [INF] Base structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Base" !!!
+2022-08-17 20:22:10.763 +02:00 [INF] Adding Base structures into the PLC project!!!
+2022-08-17 20:22:10.764 +02:00 [INF] Base structures added into the PLC project!!!
+2022-08-17 20:22:10.766 +02:00 [INF] Exporting GVL : GVL_iXlinker to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\GVLs
+2022-08-17 20:22:10.768 +02:00 [INF] GVL GVL_iXlinker exported to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\GVLs
+2022-08-17 20:22:10.771 +02:00 [INF] Adding GVL into the PLC project!!!
+2022-08-17 20:22:10.772 +02:00 [INF] GVL added into the PLC project!
+2022-08-17 20:22:10.773 +02:00 [INF] Writing changes of the PLC project Plc1 into the file Plc1.plcproj!!!
+2022-08-17 20:22:10.781 +02:00 [INF] Changes of the PLC project Plc1 written into the file Plc1.plcproj!!!
+2022-08-17 20:22:10.783 +02:00 [INF] Starting process Filename: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\devenv.com", Arguments: ""D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" /build "Release|TwinCAT RT (x64)" /Out "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\\build.txt""
+2022-08-17 20:22:10.785 +02:00 [INF] Building XAE project: "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" !!!
+2022-08-17 20:22:55.532 +02:00 [INF] XAE project: "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" built
+2022-08-17 20:22:55.534 +02:00 [INF]  in 44744 ms!!!
+2022-08-17 20:22:55.535 +02:00 [INF] Generating mappings into the project file D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-17 20:22:55.811 +02:00 [INF] Mappings generated into the project file D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-17 20:22:55.813 +02:00 [INF] Complete process 46600 ms!!!
+2022-08-17 20:23:29.272 +02:00 [INF] iXlinker started
+2022-08-17 20:23:29.280 +02:00 [INF] with arguments:
+2022-08-17 20:23:29.281 +02:00 [INF] -t D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj -p Release|TwinCAT RT (x64) -c D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\Plc1.plcproj -g True -d C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\devenv.com -n 0
+2022-08-17 20:23:30.631 +02:00 [INF] Reading IO devices in the XAE project: "TopologyRenderer"!!!
+2022-08-17 20:23:30.837 +02:00 [INF] Not unique pdo name Inputs found in box name R3_FESTO (CMMP-AS V4p0 CiA402), box type CMMP-AS V4p0 CiA402!!!
+2022-08-17 20:23:30.838 +02:00 [INF] 	 Renamed to Inputs_1!!!
+2022-08-17 20:23:30.852 +02:00 [INF] Not unique pdo name Inputs found in box name R4_FESTO (CMMP-AS V4p0 CiA402), box type CMMP-AS V4p0 CiA402!!!
+2022-08-17 20:23:30.853 +02:00 [INF] 	 Renamed to Inputs_1!!!
+2022-08-17 20:23:31.113 +02:00 [INF] Disabled box: Device 4 (EtherCAT).R8 (EK1100).R8_A11 (EK1122).RC80_1 (EK1100) found in the XAE project file: D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-17 20:23:31.114 +02:00 [INF] Disabled box: Device 4 (EtherCAT).R8 (EK1100).R8_A11 (EK1122).RC80_2 (EK1100) found in the XAE project file: D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-17 20:23:31.696 +02:00 [INF] PdoEntryStructures :28
+2022-08-17 20:23:31.698 +02:00 [INF] PdoStructures :75
+2022-08-17 20:23:31.699 +02:00 [INF] BoxStructures :40
+2022-08-17 20:23:31.699 +02:00 [INF] DeviceStructures :4
+2022-08-17 20:23:31.700 +02:00 [INF] TopologyStructures :129
+2022-08-17 20:23:31.701 +02:00 [INF] Cleaning existing GVL!
+2022-08-17 20:23:31.703 +02:00 [INF] Existing GVL cleared!
+2022-08-17 20:23:31.703 +02:00 [INF] Cleaning existing DUTs!
+2022-08-17 20:23:31.707 +02:00 [INF] Existing DUTs cleared!
+2022-08-17 20:23:31.707 +02:00 [INF] Exporting Pdo entry structures to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PdoEntries
+2022-08-17 20:23:31.714 +02:00 [INF] PDO entry structures exported!!!
+2022-08-17 20:23:31.716 +02:00 [INF] Adding PDO entry structures into the PLC project!!!
+2022-08-17 20:23:31.716 +02:00 [INF] PDO entry structures added into the PLC project!!!
+2022-08-17 20:23:31.717 +02:00 [INF] Exporting Pdo structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PDOs"
+2022-08-17 20:23:31.735 +02:00 [INF] PDO structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PDOs" !!!
+2022-08-17 20:23:31.737 +02:00 [INF] Adding PDO structures into the PLC project!!!
+2022-08-17 20:23:31.738 +02:00 [INF] PDO structures added into the PLC project!!!
+2022-08-17 20:23:31.739 +02:00 [INF] Exporting Box structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Boxes"
+2022-08-17 20:23:31.750 +02:00 [INF] Box structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Boxes" !!!
+2022-08-17 20:23:31.751 +02:00 [INF] Adding Box structures into the PLC project!!!
+2022-08-17 20:23:31.753 +02:00 [INF] Box structures added into the PLC project!!!
+2022-08-17 20:23:31.755 +02:00 [INF] Exporting Device structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Devices"
+2022-08-17 20:23:31.757 +02:00 [INF] Device structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Devices" !!!
+2022-08-17 20:23:31.760 +02:00 [INF] Adding Device structures into the PLC project!!!
+2022-08-17 20:23:31.761 +02:00 [INF] Device structures added into the PLC project!!!
+2022-08-17 20:23:31.762 +02:00 [INF] Exporting Topology structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Topology"
+2022-08-17 20:23:31.799 +02:00 [INF] Topology structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Topology" !!!
+2022-08-17 20:23:31.801 +02:00 [INF] Adding Topology structures into the PLC project!!!
+2022-08-17 20:23:31.802 +02:00 [INF] Topology structures added into the PLC project!!!
+2022-08-17 20:23:31.803 +02:00 [INF] Exporting Base structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Base"
+2022-08-17 20:23:31.805 +02:00 [INF] Base structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Base" !!!
+2022-08-17 20:23:31.807 +02:00 [INF] Adding Base structures into the PLC project!!!
+2022-08-17 20:23:31.810 +02:00 [INF] Base structures added into the PLC project!!!
+2022-08-17 20:23:31.811 +02:00 [INF] Exporting GVL : GVL_iXlinker to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\GVLs
+2022-08-17 20:23:31.813 +02:00 [INF] GVL GVL_iXlinker exported to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\GVLs
+2022-08-17 20:23:31.815 +02:00 [INF] Adding GVL into the PLC project!!!
+2022-08-17 20:23:31.817 +02:00 [INF] GVL added into the PLC project!
+2022-08-17 20:23:31.819 +02:00 [INF] Writing changes of the PLC project Plc1 into the file Plc1.plcproj!!!
+2022-08-17 20:23:31.827 +02:00 [INF] Changes of the PLC project Plc1 written into the file Plc1.plcproj!!!
+2022-08-17 20:23:31.830 +02:00 [INF] Starting process Filename: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\devenv.com", Arguments: ""D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" /build "Release|TwinCAT RT (x64)" /Out "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\\build.txt""
+2022-08-17 20:23:31.833 +02:00 [INF] Building XAE project: "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" !!!
+2022-08-17 20:24:16.607 +02:00 [INF] XAE project: "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" built
+2022-08-17 20:24:16.609 +02:00 [INF]  in 44772 ms!!!
+2022-08-17 20:24:16.611 +02:00 [INF] Generating mappings into the project file D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-17 20:24:17.138 +02:00 [INF] Mappings generated into the project file D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-17 20:24:17.140 +02:00 [INF] Complete process 47858 ms!!!
+2022-08-17 21:24:01.958 +02:00 [INF] iXlinker started
+2022-08-17 21:24:01.966 +02:00 [INF] with arguments:
+2022-08-17 21:24:01.967 +02:00 [INF] -t D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj -p Release|TwinCAT RT (x64) -c D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\Plc1.plcproj -g False -d C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\devenv.com -n 0
+2022-08-17 21:24:03.866 +02:00 [INF] Reading IO devices in the XAE project: "TopologyRenderer"!!!
+2022-08-17 21:24:04.088 +02:00 [INF] Not unique pdo name Inputs found in box name R3_FESTO (CMMP-AS V4p0 CiA402), box type CMMP-AS V4p0 CiA402!!!
+2022-08-17 21:24:04.089 +02:00 [INF] 	 Renamed to Inputs_1!!!
+2022-08-17 21:24:04.102 +02:00 [INF] Not unique pdo name Inputs found in box name R4_FESTO (CMMP-AS V4p0 CiA402), box type CMMP-AS V4p0 CiA402!!!
+2022-08-17 21:24:04.104 +02:00 [INF] 	 Renamed to Inputs_1!!!
+2022-08-17 21:24:05.024 +02:00 [INF] PdoEntryStructures :28
+2022-08-17 21:24:05.026 +02:00 [INF] PdoStructures :75
+2022-08-17 21:24:05.027 +02:00 [INF] BoxStructures :40
+2022-08-17 21:24:05.027 +02:00 [INF] DeviceStructures :4
+2022-08-17 21:24:05.028 +02:00 [INF] TopologyStructures :134
+2022-08-17 21:24:05.030 +02:00 [INF] Cleaning existing GVL!
+2022-08-17 21:24:05.031 +02:00 [INF] Existing GVL cleared!
+2022-08-17 21:24:05.032 +02:00 [INF] Cleaning existing DUTs!
+2022-08-17 21:24:05.199 +02:00 [INF] Existing DUTs cleared!
+2022-08-17 21:24:05.200 +02:00 [INF] Exporting Pdo entry structures to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PdoEntries
+2022-08-17 21:24:05.207 +02:00 [INF] PDO entry structures exported!!!
+2022-08-17 21:24:05.209 +02:00 [INF] Adding PDO entry structures into the PLC project!!!
+2022-08-17 21:24:05.210 +02:00 [INF] PDO entry structures added into the PLC project!!!
+2022-08-17 21:24:05.210 +02:00 [INF] Exporting Pdo structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PDOs"
+2022-08-17 21:24:05.231 +02:00 [INF] PDO structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PDOs" !!!
+2022-08-17 21:24:05.232 +02:00 [INF] Adding PDO structures into the PLC project!!!
+2022-08-17 21:24:05.234 +02:00 [INF] PDO structures added into the PLC project!!!
+2022-08-17 21:24:05.235 +02:00 [INF] Exporting Box structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Boxes"
+2022-08-17 21:24:05.248 +02:00 [INF] Box structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Boxes" !!!
+2022-08-17 21:24:05.249 +02:00 [INF] Adding Box structures into the PLC project!!!
+2022-08-17 21:24:05.252 +02:00 [INF] Box structures added into the PLC project!!!
+2022-08-17 21:24:05.253 +02:00 [INF] Exporting Device structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Devices"
+2022-08-17 21:24:05.256 +02:00 [INF] Device structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Devices" !!!
+2022-08-17 21:24:05.258 +02:00 [INF] Adding Device structures into the PLC project!!!
+2022-08-17 21:24:05.259 +02:00 [INF] Device structures added into the PLC project!!!
+2022-08-17 21:24:05.260 +02:00 [INF] Exporting Topology structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Topology"
+2022-08-17 21:24:05.304 +02:00 [INF] Topology structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Topology" !!!
+2022-08-17 21:24:05.306 +02:00 [INF] Adding Topology structures into the PLC project!!!
+2022-08-17 21:24:05.308 +02:00 [INF] Topology structures added into the PLC project!!!
+2022-08-17 21:24:05.309 +02:00 [INF] Exporting Base structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Base"
+2022-08-17 21:24:05.311 +02:00 [INF] Base structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Base" !!!
+2022-08-17 21:24:05.312 +02:00 [INF] Adding Base structures into the PLC project!!!
+2022-08-17 21:24:05.315 +02:00 [INF] Base structures added into the PLC project!!!
+2022-08-17 21:24:05.316 +02:00 [INF] Exporting GVL : GVL_iXlinker to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\GVLs
+2022-08-17 21:24:05.318 +02:00 [INF] GVL GVL_iXlinker exported to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\GVLs
+2022-08-17 21:24:05.320 +02:00 [INF] Adding GVL into the PLC project!!!
+2022-08-17 21:24:05.321 +02:00 [INF] GVL added into the PLC project!
+2022-08-17 21:24:05.322 +02:00 [INF] Writing changes of the PLC project Plc1 into the file Plc1.plcproj!!!
+2022-08-17 21:24:05.333 +02:00 [INF] Changes of the PLC project Plc1 written into the file Plc1.plcproj!!!
+2022-08-17 21:24:05.335 +02:00 [INF] Starting process Filename: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\devenv.com", Arguments: ""D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" /build "Release|TwinCAT RT (x64)" /Out "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\\build.txt""
+2022-08-17 21:24:05.337 +02:00 [INF] Building XAE project: "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" !!!
+2022-08-17 21:24:53.319 +02:00 [INF] XAE project: "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" built
+2022-08-17 21:24:53.321 +02:00 [INF]  in 47979 ms!!!
+2022-08-17 21:24:53.322 +02:00 [INF] Generating mappings into the project file D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-17 21:24:53.860 +02:00 [INF] Mappings generated into the project file D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-17 21:24:53.862 +02:00 [INF] Complete process 51893 ms!!!
+2022-08-18 08:34:48.950 +02:00 [INF] iXlinker started
+2022-08-18 08:34:48.958 +02:00 [INF] with arguments:
+2022-08-18 08:34:48.959 +02:00 [INF] -t D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj -p Release|TwinCAT RT (x64) -c D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\Plc1.plcproj -g False -d C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\devenv.com -n 0
+2022-08-18 08:34:50.446 +02:00 [INF] Reading IO devices in the XAE project: "TopologyRenderer"!!!
+2022-08-18 08:34:50.599 +02:00 [INF] Not unique pdo name Inputs found in box name R3_FESTO (CMMP-AS V4p0 CiA402), box type CMMP-AS V4p0 CiA402!!!
+2022-08-18 08:34:50.600 +02:00 [INF] 	 Renamed to Inputs_1!!!
+2022-08-18 08:34:50.635 +02:00 [INF] Not unique pdo name Inputs found in box name R4_FESTO (CMMP-AS V4p0 CiA402), box type CMMP-AS V4p0 CiA402!!!
+2022-08-18 08:34:50.636 +02:00 [INF] 	 Renamed to Inputs_1!!!
+2022-08-18 08:34:51.521 +02:00 [INF] PdoEntryStructures :28
+2022-08-18 08:34:51.523 +02:00 [INF] PdoStructures :75
+2022-08-18 08:34:51.524 +02:00 [INF] BoxStructures :40
+2022-08-18 08:34:51.525 +02:00 [INF] DeviceStructures :4
+2022-08-18 08:34:51.526 +02:00 [INF] TopologyStructures :134
+2022-08-18 08:34:51.527 +02:00 [INF] Cleaning existing GVL!
+2022-08-18 08:34:51.528 +02:00 [INF] Existing GVL cleared!
+2022-08-18 08:34:51.529 +02:00 [INF] Cleaning existing DUTs!
+2022-08-18 08:34:51.531 +02:00 [INF] Existing DUTs cleared!
+2022-08-18 08:34:51.532 +02:00 [INF] Exporting Pdo entry structures to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PdoEntries
+2022-08-18 08:34:51.619 +02:00 [INF] PDO entry structures exported!!!
+2022-08-18 08:34:51.621 +02:00 [INF] Adding PDO entry structures into the PLC project!!!
+2022-08-18 08:34:51.622 +02:00 [INF] PDO entry structures added into the PLC project!!!
+2022-08-18 08:34:51.622 +02:00 [INF] Exporting Pdo structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PDOs"
+2022-08-18 08:34:51.644 +02:00 [INF] PDO structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PDOs" !!!
+2022-08-18 08:34:51.646 +02:00 [INF] Adding PDO structures into the PLC project!!!
+2022-08-18 08:34:51.647 +02:00 [INF] PDO structures added into the PLC project!!!
+2022-08-18 08:34:51.648 +02:00 [INF] Exporting Box structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Boxes"
+2022-08-18 08:34:51.662 +02:00 [INF] Box structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Boxes" !!!
+2022-08-18 08:34:51.664 +02:00 [INF] Adding Box structures into the PLC project!!!
+2022-08-18 08:34:51.665 +02:00 [INF] Box structures added into the PLC project!!!
+2022-08-18 08:34:51.667 +02:00 [INF] Exporting Device structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Devices"
+2022-08-18 08:34:51.670 +02:00 [INF] Device structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Devices" !!!
+2022-08-18 08:34:51.671 +02:00 [INF] Adding Device structures into the PLC project!!!
+2022-08-18 08:34:51.674 +02:00 [INF] Device structures added into the PLC project!!!
+2022-08-18 08:34:51.675 +02:00 [INF] Exporting Topology structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Topology"
+2022-08-18 08:34:51.729 +02:00 [INF] Topology structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Topology" !!!
+2022-08-18 08:34:51.731 +02:00 [INF] Adding Topology structures into the PLC project!!!
+2022-08-18 08:34:51.733 +02:00 [INF] Topology structures added into the PLC project!!!
+2022-08-18 08:34:51.734 +02:00 [INF] Exporting Base structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Base"
+2022-08-18 08:34:51.736 +02:00 [INF] Base structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Base" !!!
+2022-08-18 08:34:51.738 +02:00 [INF] Adding Base structures into the PLC project!!!
+2022-08-18 08:34:51.740 +02:00 [INF] Base structures added into the PLC project!!!
+2022-08-18 08:34:51.741 +02:00 [INF] Exporting GVL : GVL_iXlinker to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\GVLs
+2022-08-18 08:34:51.743 +02:00 [INF] GVL GVL_iXlinker exported to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\GVLs
+2022-08-18 08:34:51.745 +02:00 [INF] Adding GVL into the PLC project!!!
+2022-08-18 08:34:51.746 +02:00 [INF] GVL added into the PLC project!
+2022-08-18 08:34:51.747 +02:00 [INF] Writing changes of the PLC project Plc1 into the file Plc1.plcproj!!!
+2022-08-18 08:34:51.757 +02:00 [INF] Changes of the PLC project Plc1 written into the file Plc1.plcproj!!!
+2022-08-18 08:34:51.760 +02:00 [INF] Starting process Filename: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\devenv.com", Arguments: ""D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" /build "Release|TwinCAT RT (x64)" /Out "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\\build.txt""
+2022-08-18 08:34:51.762 +02:00 [INF] Building XAE project: "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" !!!
+2022-08-18 08:35:30.595 +02:00 [INF] XAE project: "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" built
+2022-08-18 08:35:30.597 +02:00 [INF]  in 38831 ms!!!
+2022-08-18 08:35:30.598 +02:00 [INF] Generating mappings into the project file D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-18 08:35:31.085 +02:00 [INF] Mappings generated into the project file D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-18 08:35:31.086 +02:00 [INF] Complete process 42126 ms!!!
+2022-08-18 08:37:23.812 +02:00 [INF] iXlinker started
+2022-08-18 08:37:23.820 +02:00 [INF] with arguments:
+2022-08-18 08:37:23.821 +02:00 [INF] -t D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj -p Release|TwinCAT RT (x64) -c D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\Plc1.plcproj -g False -d C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\devenv.com -n 0
+2022-08-18 08:37:25.551 +02:00 [INF] Reading IO devices in the XAE project: "TopologyRenderer"!!!
+2022-08-18 08:37:25.727 +02:00 [INF] Not unique pdo name Inputs found in box name R3_FESTO (CMMP-AS V4p0 CiA402), box type CMMP-AS V4p0 CiA402!!!
+2022-08-18 08:37:25.728 +02:00 [INF] 	 Renamed to Inputs_1!!!
+2022-08-18 08:37:25.739 +02:00 [INF] Not unique pdo name Inputs found in box name R4_FESTO (CMMP-AS V4p0 CiA402), box type CMMP-AS V4p0 CiA402!!!
+2022-08-18 08:37:25.741 +02:00 [INF] 	 Renamed to Inputs_1!!!
+2022-08-18 08:37:26.644 +02:00 [INF] PdoEntryStructures :28
+2022-08-18 08:37:26.646 +02:00 [INF] PdoStructures :75
+2022-08-18 08:37:26.647 +02:00 [INF] BoxStructures :40
+2022-08-18 08:37:26.648 +02:00 [INF] DeviceStructures :4
+2022-08-18 08:37:26.649 +02:00 [INF] TopologyStructures :134
+2022-08-18 08:37:26.650 +02:00 [INF] Cleaning existing GVL!
+2022-08-18 08:37:26.651 +02:00 [INF] Existing GVL cleared!
+2022-08-18 08:37:26.652 +02:00 [INF] Cleaning existing DUTs!
+2022-08-18 08:37:26.829 +02:00 [INF] Existing DUTs cleared!
+2022-08-18 08:37:26.830 +02:00 [INF] Exporting Pdo entry structures to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PdoEntries
+2022-08-18 08:37:26.839 +02:00 [INF] PDO entry structures exported!!!
+2022-08-18 08:37:26.840 +02:00 [INF] Adding PDO entry structures into the PLC project!!!
+2022-08-18 08:37:26.841 +02:00 [INF] PDO entry structures added into the PLC project!!!
+2022-08-18 08:37:26.842 +02:00 [INF] Exporting Pdo structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PDOs"
+2022-08-18 08:37:26.865 +02:00 [INF] PDO structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PDOs" !!!
+2022-08-18 08:37:26.866 +02:00 [INF] Adding PDO structures into the PLC project!!!
+2022-08-18 08:37:26.868 +02:00 [INF] PDO structures added into the PLC project!!!
+2022-08-18 08:37:26.869 +02:00 [INF] Exporting Box structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Boxes"
+2022-08-18 08:37:26.882 +02:00 [INF] Box structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Boxes" !!!
+2022-08-18 08:37:26.883 +02:00 [INF] Adding Box structures into the PLC project!!!
+2022-08-18 08:37:26.885 +02:00 [INF] Box structures added into the PLC project!!!
+2022-08-18 08:37:26.886 +02:00 [INF] Exporting Device structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Devices"
+2022-08-18 08:37:26.889 +02:00 [INF] Device structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Devices" !!!
+2022-08-18 08:37:26.891 +02:00 [INF] Adding Device structures into the PLC project!!!
+2022-08-18 08:37:26.892 +02:00 [INF] Device structures added into the PLC project!!!
+2022-08-18 08:37:26.895 +02:00 [INF] Exporting Topology structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Topology"
+2022-08-18 08:37:26.942 +02:00 [INF] Topology structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Topology" !!!
+2022-08-18 08:37:26.943 +02:00 [INF] Adding Topology structures into the PLC project!!!
+2022-08-18 08:37:26.945 +02:00 [INF] Topology structures added into the PLC project!!!
+2022-08-18 08:37:26.946 +02:00 [INF] Exporting Base structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Base"
+2022-08-18 08:37:26.947 +02:00 [INF] Base structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Base" !!!
+2022-08-18 08:37:26.949 +02:00 [INF] Adding Base structures into the PLC project!!!
+2022-08-18 08:37:26.950 +02:00 [INF] Base structures added into the PLC project!!!
+2022-08-18 08:37:26.953 +02:00 [INF] Exporting GVL : GVL_iXlinker to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\GVLs
+2022-08-18 08:37:26.955 +02:00 [INF] GVL GVL_iXlinker exported to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\GVLs
+2022-08-18 08:37:26.957 +02:00 [INF] Adding GVL into the PLC project!!!
+2022-08-18 08:37:26.958 +02:00 [INF] GVL added into the PLC project!
+2022-08-18 08:37:26.959 +02:00 [INF] Writing changes of the PLC project Plc1 into the file Plc1.plcproj!!!
+2022-08-18 08:37:26.967 +02:00 [INF] Changes of the PLC project Plc1 written into the file Plc1.plcproj!!!
+2022-08-18 08:37:26.969 +02:00 [INF] Starting process Filename: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\devenv.com", Arguments: ""D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" /build "Release|TwinCAT RT (x64)" /Out "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\\build.txt""
+2022-08-18 08:37:26.972 +02:00 [INF] Building XAE project: "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" !!!
+2022-08-18 08:39:15.863 +02:00 [INF] XAE project: "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" built
+2022-08-18 08:39:15.865 +02:00 [INF]  in 108889 ms!!!
+2022-08-18 08:39:15.866 +02:00 [INF] Generating mappings into the project file D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-18 08:39:16.404 +02:00 [INF] Mappings generated into the project file D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-18 08:39:16.405 +02:00 [INF] Complete process 112583 ms!!!
+2022-08-18 08:45:35.807 +02:00 [INF] iXlinker started
+2022-08-18 08:45:35.814 +02:00 [INF] with arguments:
+2022-08-18 08:45:35.815 +02:00 [INF] -t D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj -p Release|TwinCAT RT (x64) -c D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\Plc1.plcproj -g False -d C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\devenv.com -n 0
+2022-08-18 08:45:37.742 +02:00 [INF] Reading IO devices in the XAE project: "TopologyRenderer"!!!
+2022-08-18 08:45:37.903 +02:00 [INF] Not unique pdo name Inputs found in box name R3_FESTO (CMMP-AS V4p0 CiA402), box type CMMP-AS V4p0 CiA402!!!
+2022-08-18 08:45:37.904 +02:00 [INF] 	 Renamed to Inputs_1!!!
+2022-08-18 08:45:37.915 +02:00 [INF] Not unique pdo name Inputs found in box name R4_FESTO (CMMP-AS V4p0 CiA402), box type CMMP-AS V4p0 CiA402!!!
+2022-08-18 08:45:37.917 +02:00 [INF] 	 Renamed to Inputs_1!!!
+2022-08-18 08:45:38.783 +02:00 [INF] PdoEntryStructures :28
+2022-08-18 08:45:38.785 +02:00 [INF] PdoStructures :75
+2022-08-18 08:45:38.785 +02:00 [INF] BoxStructures :40
+2022-08-18 08:45:38.786 +02:00 [INF] DeviceStructures :4
+2022-08-18 08:45:38.787 +02:00 [INF] TopologyStructures :134
+2022-08-18 08:45:38.788 +02:00 [INF] Cleaning existing GVL!
+2022-08-18 08:45:38.789 +02:00 [INF] Existing GVL cleared!
+2022-08-18 08:45:38.790 +02:00 [INF] Cleaning existing DUTs!
+2022-08-18 08:45:38.988 +02:00 [INF] Existing DUTs cleared!
+2022-08-18 08:45:38.989 +02:00 [INF] Exporting Pdo entry structures to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PdoEntries
+2022-08-18 08:45:38.997 +02:00 [INF] PDO entry structures exported!!!
+2022-08-18 08:45:38.998 +02:00 [INF] Adding PDO entry structures into the PLC project!!!
+2022-08-18 08:45:38.999 +02:00 [INF] PDO entry structures added into the PLC project!!!
+2022-08-18 08:45:38.999 +02:00 [INF] Exporting Pdo structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PDOs"
+2022-08-18 08:45:39.020 +02:00 [INF] PDO structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PDOs" !!!
+2022-08-18 08:45:39.021 +02:00 [INF] Adding PDO structures into the PLC project!!!
+2022-08-18 08:45:39.022 +02:00 [INF] PDO structures added into the PLC project!!!
+2022-08-18 08:45:39.023 +02:00 [INF] Exporting Box structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Boxes"
+2022-08-18 08:45:39.037 +02:00 [INF] Box structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Boxes" !!!
+2022-08-18 08:45:39.039 +02:00 [INF] Adding Box structures into the PLC project!!!
+2022-08-18 08:45:39.040 +02:00 [INF] Box structures added into the PLC project!!!
+2022-08-18 08:45:39.041 +02:00 [INF] Exporting Device structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Devices"
+2022-08-18 08:45:39.044 +02:00 [INF] Device structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Devices" !!!
+2022-08-18 08:45:39.045 +02:00 [INF] Adding Device structures into the PLC project!!!
+2022-08-18 08:45:39.046 +02:00 [INF] Device structures added into the PLC project!!!
+2022-08-18 08:45:39.047 +02:00 [INF] Exporting Topology structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Topology"
+2022-08-18 08:45:39.104 +02:00 [INF] Topology structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Topology" !!!
+2022-08-18 08:45:39.105 +02:00 [INF] Adding Topology structures into the PLC project!!!
+2022-08-18 08:45:39.106 +02:00 [INF] Topology structures added into the PLC project!!!
+2022-08-18 08:45:39.107 +02:00 [INF] Exporting Base structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Base"
+2022-08-18 08:45:39.109 +02:00 [INF] Base structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Base" !!!
+2022-08-18 08:45:39.111 +02:00 [INF] Adding Base structures into the PLC project!!!
+2022-08-18 08:45:39.112 +02:00 [INF] Base structures added into the PLC project!!!
+2022-08-18 08:45:39.113 +02:00 [INF] Exporting GVL : GVL_iXlinker to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\GVLs
+2022-08-18 08:45:39.116 +02:00 [INF] GVL GVL_iXlinker exported to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\GVLs
+2022-08-18 08:45:39.118 +02:00 [INF] Adding GVL into the PLC project!!!
+2022-08-18 08:45:39.118 +02:00 [INF] GVL added into the PLC project!
+2022-08-18 08:45:39.119 +02:00 [INF] Writing changes of the PLC project Plc1 into the file Plc1.plcproj!!!
+2022-08-18 08:45:39.127 +02:00 [INF] Changes of the PLC project Plc1 written into the file Plc1.plcproj!!!
+2022-08-18 08:45:39.129 +02:00 [INF] Starting process Filename: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\devenv.com", Arguments: ""D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" /build "Release|TwinCAT RT (x64)" /Out "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\\build.txt""
+2022-08-18 08:45:39.131 +02:00 [INF] Building XAE project: "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" !!!
+2022-08-18 08:46:28.201 +02:00 [INF] XAE project: "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" built
+2022-08-18 08:46:28.203 +02:00 [INF]  in 49068 ms!!!
+2022-08-18 08:46:28.204 +02:00 [INF] Generating mappings into the project file D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-18 08:46:28.736 +02:00 [INF] Mappings generated into the project file D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-18 08:46:28.738 +02:00 [INF] Complete process 52921 ms!!!
+2022-08-22 16:29:36.989 +02:00 [INF] iXlinker started
+2022-08-22 16:29:36.998 +02:00 [INF] with arguments:
+2022-08-22 16:29:36.999 +02:00 [INF] -t D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj -p Debug|TwinCAT RT (x64) -c D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\Plc1.plcproj -g False -d C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\devenv.com -n 0
+2022-08-22 16:29:38.760 +02:00 [INF] Reading IO devices in the XAE project: "TopologyRenderer"!!!
+2022-08-22 16:29:38.917 +02:00 [INF] Not unique pdo name Inputs found in box name R3_FESTO (CMMP-AS V4p0 CiA402), box type CMMP-AS V4p0 CiA402!!!
+2022-08-22 16:29:38.919 +02:00 [INF] 	 Renamed to Inputs_1!!!
+2022-08-22 16:29:38.931 +02:00 [INF] Not unique pdo name Inputs found in box name R4_FESTO (CMMP-AS V4p0 CiA402), box type CMMP-AS V4p0 CiA402!!!
+2022-08-22 16:29:38.932 +02:00 [INF] 	 Renamed to Inputs_1!!!
+2022-08-22 16:29:39.773 +02:00 [INF] PdoEntryStructures :28
+2022-08-22 16:29:39.775 +02:00 [INF] PdoStructures :75
+2022-08-22 16:29:39.776 +02:00 [INF] BoxStructures :40
+2022-08-22 16:29:39.777 +02:00 [INF] DeviceStructures :4
+2022-08-22 16:29:39.778 +02:00 [INF] TopologyStructures :134
+2022-08-22 16:29:39.779 +02:00 [INF] Cleaning existing GVL!
+2022-08-22 16:29:39.780 +02:00 [INF] Existing GVL cleared!
+2022-08-22 16:29:39.781 +02:00 [INF] Cleaning existing DUTs!
+2022-08-22 16:29:39.935 +02:00 [INF] Existing DUTs cleared!
+2022-08-22 16:29:39.936 +02:00 [INF] Exporting Pdo entry structures to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PdoEntries
+2022-08-22 16:29:39.944 +02:00 [INF] PDO entry structures exported!!!
+2022-08-22 16:29:39.945 +02:00 [INF] Adding PDO entry structures into the PLC project!!!
+2022-08-22 16:29:39.946 +02:00 [INF] PDO entry structures added into the PLC project!!!
+2022-08-22 16:29:39.947 +02:00 [INF] Exporting Pdo structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PDOs"
+2022-08-22 16:29:39.968 +02:00 [INF] PDO structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PDOs" !!!
+2022-08-22 16:29:39.969 +02:00 [INF] Adding PDO structures into the PLC project!!!
+2022-08-22 16:29:39.971 +02:00 [INF] PDO structures added into the PLC project!!!
+2022-08-22 16:29:39.972 +02:00 [INF] Exporting Box structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Boxes"
+2022-08-22 16:29:39.985 +02:00 [INF] Box structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Boxes" !!!
+2022-08-22 16:29:39.987 +02:00 [INF] Adding Box structures into the PLC project!!!
+2022-08-22 16:29:39.990 +02:00 [INF] Box structures added into the PLC project!!!
+2022-08-22 16:29:39.991 +02:00 [INF] Exporting Device structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Devices"
+2022-08-22 16:29:39.994 +02:00 [INF] Device structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Devices" !!!
+2022-08-22 16:29:39.995 +02:00 [INF] Adding Device structures into the PLC project!!!
+2022-08-22 16:29:39.997 +02:00 [INF] Device structures added into the PLC project!!!
+2022-08-22 16:29:39.999 +02:00 [INF] Exporting Topology structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Topology"
+2022-08-22 16:29:40.043 +02:00 [INF] Topology structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Topology" !!!
+2022-08-22 16:29:40.045 +02:00 [INF] Adding Topology structures into the PLC project!!!
+2022-08-22 16:29:40.046 +02:00 [INF] Topology structures added into the PLC project!!!
+2022-08-22 16:29:40.047 +02:00 [INF] Exporting Base structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Base"
+2022-08-22 16:29:40.049 +02:00 [INF] Base structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Base" !!!
+2022-08-22 16:29:40.051 +02:00 [INF] Adding Base structures into the PLC project!!!
+2022-08-22 16:29:40.053 +02:00 [INF] Base structures added into the PLC project!!!
+2022-08-22 16:29:40.055 +02:00 [INF] Exporting GVL : GVL_iXlinker to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\GVLs
+2022-08-22 16:29:40.057 +02:00 [INF] GVL GVL_iXlinker exported to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\GVLs
+2022-08-22 16:29:40.058 +02:00 [INF] Adding GVL into the PLC project!!!
+2022-08-22 16:29:40.059 +02:00 [INF] GVL added into the PLC project!
+2022-08-22 16:29:40.061 +02:00 [INF] Writing changes of the PLC project Plc1 into the file Plc1.plcproj!!!
+2022-08-22 16:29:40.071 +02:00 [INF] Changes of the PLC project Plc1 written into the file Plc1.plcproj!!!
+2022-08-22 16:29:40.073 +02:00 [INF] Starting process Filename: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\devenv.com", Arguments: ""D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" /build "Debug|TwinCAT RT (x64)" /Out "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\\build.txt""
+2022-08-22 16:29:40.076 +02:00 [INF] Building XAE project: "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" !!!
+2022-08-22 16:30:29.221 +02:00 [INF] XAE project: "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" built
+2022-08-22 16:30:29.223 +02:00 [INF]  in 49143 ms!!!
+2022-08-22 16:30:29.225 +02:00 [INF] Generating mappings into the project file D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-22 16:30:29.742 +02:00 [INF] Mappings generated into the project file D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-08-22 16:30:29.744 +02:00 [INF] Complete process 52744 ms!!!
+2022-09-08 13:08:04.135 +02:00 [INF] iXlinker started
+2022-09-08 13:08:04.164 +02:00 [INF] with arguments:
+2022-09-08 13:08:04.165 +02:00 [INF] -t D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj -p Debug|TwinCAT RT (x64) -c D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\Plc1.plcproj -g True -d C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\devenv.com -n 0
+2022-09-08 13:08:05.913 +02:00 [INF] Reading IO devices in the XAE project: "TopologyRenderer"!!!
+2022-09-08 13:08:06.066 +02:00 [INF] Disabled device: Device 4 (EtherCAT) found in the XAE project file: D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-09-08 13:08:06.068 +02:00 [INF] Disabled device: Device 5 (EtherCAT) found in the XAE project file: D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj!!!
+2022-09-08 13:08:06.069 +02:00 [INF] PdoEntryStructures :21
+2022-09-08 13:08:06.070 +02:00 [INF] PdoStructures :32
+2022-09-08 13:08:06.071 +02:00 [INF] BoxStructures :21
+2022-09-08 13:08:06.072 +02:00 [INF] DeviceStructures :3
+2022-09-08 13:08:06.073 +02:00 [INF] TopologyStructures :39
+2022-09-08 13:08:06.074 +02:00 [INF] Cleaning existing GVL!
+2022-09-08 13:08:06.104 +02:00 [INF] Existing GVL cleared!
+2022-09-08 13:08:06.105 +02:00 [INF] Cleaning existing DUTs!
+2022-09-08 13:08:06.209 +02:00 [INF] Existing DUTs cleared!
+2022-09-08 13:08:06.210 +02:00 [INF] Exporting Pdo entry structures to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PdoEntries
+2022-09-08 13:08:06.217 +02:00 [INF] PDO entry structures exported!!!
+2022-09-08 13:08:06.217 +02:00 [INF] Adding PDO entry structures into the PLC project!!!
+2022-09-08 13:08:06.219 +02:00 [INF] PDO entry structures added into the PLC project!!!
+2022-09-08 13:08:06.220 +02:00 [INF] Exporting Pdo structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PDOs"
+2022-09-08 13:08:06.229 +02:00 [INF] PDO structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\PDOs" !!!
+2022-09-08 13:08:06.230 +02:00 [INF] Adding PDO structures into the PLC project!!!
+2022-09-08 13:08:06.231 +02:00 [INF] PDO structures added into the PLC project!!!
+2022-09-08 13:08:06.232 +02:00 [INF] Exporting Box structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Boxes"
+2022-09-08 13:08:06.240 +02:00 [INF] Box structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Boxes" !!!
+2022-09-08 13:08:06.242 +02:00 [INF] Adding Box structures into the PLC project!!!
+2022-09-08 13:08:06.243 +02:00 [INF] Box structures added into the PLC project!!!
+2022-09-08 13:08:06.244 +02:00 [INF] Exporting Device structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Devices"
+2022-09-08 13:08:06.248 +02:00 [INF] Device structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Devices" !!!
+2022-09-08 13:08:06.250 +02:00 [INF] Adding Device structures into the PLC project!!!
+2022-09-08 13:08:06.251 +02:00 [INF] Device structures added into the PLC project!!!
+2022-09-08 13:08:06.252 +02:00 [INF] Exporting Topology structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Topology"
+2022-09-08 13:08:06.267 +02:00 [INF] Topology structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Topology" !!!
+2022-09-08 13:08:06.269 +02:00 [INF] Adding Topology structures into the PLC project!!!
+2022-09-08 13:08:06.270 +02:00 [INF] Topology structures added into the PLC project!!!
+2022-09-08 13:08:06.271 +02:00 [INF] Exporting Base structures to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Base"
+2022-09-08 13:08:06.273 +02:00 [INF] Base structures exported to the folder "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\DUTs\IO\Base" !!!
+2022-09-08 13:08:06.275 +02:00 [INF] Adding Base structures into the PLC project!!!
+2022-09-08 13:08:06.276 +02:00 [INF] Base structures added into the PLC project!!!
+2022-09-08 13:08:06.279 +02:00 [INF] Exporting GVL : GVL_iXlinker to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\GVLs
+2022-09-08 13:08:06.282 +02:00 [INF] GVL GVL_iXlinker exported to the folder D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\Plc1\GVLs
+2022-09-08 13:08:06.283 +02:00 [INF] Adding GVL into the PLC project!!!
+2022-09-08 13:08:06.284 +02:00 [INF] GVL added into the PLC project!
+2022-09-08 13:08:06.285 +02:00 [INF] Writing changes of the PLC project Plc1 into the file Plc1.plcproj!!!
+2022-09-08 13:08:06.297 +02:00 [INF] Changes of the PLC project Plc1 written into the file Plc1.plcproj!!!
+2022-09-08 13:08:06.299 +02:00 [INF] Starting process Filename: "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\devenv.com", Arguments: ""D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" /build "Debug|TwinCAT RT (x64)" /Out "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\\build.txt""
+2022-09-08 13:08:06.301 +02:00 [INF] Building XAE project: "D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj" !!!

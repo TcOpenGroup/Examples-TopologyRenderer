@@ -1,0 +1,99 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\github\\TcOpenGroup\\Examples-TopologyRenderer\\Plc1Connector\\Plc1Connector.csproj": {}
+  },
+  "projects": {
+    "D:\\github\\TcOpenGroup\\Examples-TopologyRenderer\\Plc1Connector\\Plc1Connector.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\github\\TcOpenGroup\\Examples-TopologyRenderer\\Plc1Connector\\Plc1Connector.csproj",
+        "projectName": "Plc1Connector",
+        "projectPath": "D:\\github\\TcOpenGroup\\Examples-TopologyRenderer\\Plc1Connector\\Plc1Connector.csproj",
+        "packagesPath": "C:\\Users\\Tomas_K\\.nuget\\packages\\",
+        "outputPath": "D:\\github\\TcOpenGroup\\Examples-TopologyRenderer\\Plc1Connector\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tomas_K\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48",
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\TwinCAT\\Functions\\TE2000-HMI-Engineering\\Infrastructure\\Packages": {},
+          "C:\\TwinCAT\\Functions\\TE2000-HMI-Engineering\\References": {},
+          "D:\\github\\Inxton\\iXlinker\\_nuget": {},
+          "http://192.168.0.28/foxtroth.vortex/_packaging/developer-alphas/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/TcOpenGroup/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          },
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Inxton.iXlinker": {
+              "target": "Package",
+              "version": "[0.1.4-alpha.100, )"
+            },
+            "TcOpen.TcoIoConnector": {
+              "target": "Package",
+              "version": "[0.9.0-alpha.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        },
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Inxton.iXlinker": {
+              "target": "Package",
+              "version": "[0.1.4-alpha.100, )"
+            },
+            "TcOpen.TcoIoConnector": {
+              "target": "Package",
+              "version": "[0.9.0-alpha.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

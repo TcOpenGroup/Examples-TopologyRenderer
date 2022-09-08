@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.2.0.0" ProductVersion="3.1.4024.11">
+  <DUT Name="SyncUnits_91A42BBF" Id="{090e1328-f028-425f-94ae-3f6e1097491e}">
+    <Declaration><![CDATA[{attribute 'GeneratedUsingTerminal: '}
+{attribute addProperty BoxType ""}
+{attribute addProperty Id "_defaultAT %I*SyncUnitTasks_4BE0146918Row_0AT %I*SyncUnitTasks_4BE0146918Row_1AT %I*SyncUnitTasks_4BE0146918Row_2AT %I*SyncUnitTasks_4BE0146918Row_3AT %I*SyncUnitTasks_4BE0146918Row_4AT %I*SyncUnitTasks_4BE0146918"}
+{attribute addProperty CRC "2443455423"}
+{attribute addProperty Size "108"}
+TYPE SyncUnits_91A42BBF EXTENDS TcoIo.SyncUnitsBase_AD6C35CE :
+STRUCT
+	{attribute addProperty Name "_default"}
+	_default : SyncUnitTasks_4BE01469;
+	{attribute addProperty Name "Row_0"}
+	Row_0 : SyncUnitTasks_4BE01469;
+	{attribute addProperty Name "Row_1"}
+	Row_1 : SyncUnitTasks_4BE01469;
+	{attribute addProperty Name "Row_2"}
+	Row_2 : SyncUnitTasks_4BE01469;
+	{attribute addProperty Name "Row_3"}
+	Row_3 : SyncUnitTasks_4BE01469;
+	{attribute addProperty Name "Row_4"}
+	Row_4 : SyncUnitTasks_4BE01469;
+END_STRUCT
+END_TYPE
+]]></Declaration>
+  </DUT>
+</TcPlcObject>

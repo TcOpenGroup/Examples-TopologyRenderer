@@ -20,7 +20,7 @@
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
         <wpf:TopologyRenderer Grid.Row="0" Grid.Column="0" DataContext="{Binding Term_9_EK1100}" GroupedView="True" GroupName="Station 210: Term 9 (EK1100)" ExcludeSlavesConnectedToJunctionBox="True" />
-        <wpf:TopologyRenderer Grid.Row="1" Grid.Column="1" DataContext="{Binding Term_9_EK1100.Term_10_EK1122.Term_11_EK1100}" GroupedView="True" GroupName="Station 220: Term 11 (EK1100)" LastTopologyElementName="Term 17 (EK1110)" />
+        <wpf:TopologyRenderer Grid.Row="1" Grid.Column="1" DataContext="{Binding Term_9_EK1100.Term_10_EK1122.Term_11_EK1100}" GroupedView="True" GroupName="Station 220: Term 11 (EK1100)" />
         <wpf:TopologyRenderer Grid.Row="1" Grid.Column="2" DataContext="{Binding Term_9_EK1100.Term_10_EK1122.Term_18_EK1100}" GroupedView="True" GroupName="Station 230: Term 18 (EK1100)" />
         <wpf:TopologyRenderer Grid.Row="2" Grid.Column="0" DataContext="{Binding Term_9_EK1100.Term_10_EK1122}" GroupedView="True" GroupName="Station 240: Term 23 (EK1100)" FirstTopologyElementName="Term 23 (EK1100)" LastTopologyElementName="Term 44 (EL1008)" ExcludeSlavesConnectedToJunctionBox="True"  />
         <wpf:TopologyRenderer Grid.Row="3" Grid.Column="1" DataContext="{Binding Term_9_EK1100.Term_10_EK1122.Term_23_EK1100.Term_24_EK1122.Term_25_EK1100}" GroupedView="True" GroupName="Station 250: Term 25 (EK1100)"/>

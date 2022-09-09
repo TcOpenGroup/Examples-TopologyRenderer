@@ -54,7 +54,7 @@ namespace WpfTopologyRenderer.UserViews {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfTopologyRenderer;component/userviews/userviewdevice3.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfTopologyRenderer;V1.0.0.0;component/userviews/userviewdevice3.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\UserViews\UserViewDevice3.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

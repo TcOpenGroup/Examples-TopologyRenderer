@@ -85,7 +85,7 @@ namespace WpfTopologyRenderer.Simulation {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfTopologyRenderer;component/simulation/simulatestate.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfTopologyRenderer;V1.0.0.0;component/simulation/simulatestate.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Simulation\SimulateState.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

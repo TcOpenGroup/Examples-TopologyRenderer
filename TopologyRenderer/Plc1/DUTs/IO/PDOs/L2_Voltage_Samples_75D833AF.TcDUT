@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TcPlcObject Version="1.2.0.0" ProductVersion="3.1.4024.11">
-  <DUT Name="L2_Voltage_Samples_75D833AF" Id="{cc65108f-93c6-4897-8787-fcbc76806aaa}">
+  <DUT Name="L2_Voltage_Samples_75D833AF" Id="{21c3851f-f06c-4609-966b-606913690905}">
     <Declaration><![CDATA[{attribute 'GeneratedUsingTerminal: EL3773-0000-0021'}
 {attribute addProperty BoxType "EL3773-0000-0021"}
 {attribute addProperty Id "U2_SamplesAT %I*U2_Samples_2549228720"}

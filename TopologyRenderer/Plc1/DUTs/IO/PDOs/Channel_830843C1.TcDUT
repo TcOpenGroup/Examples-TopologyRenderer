@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TcPlcObject Version="1.2.0.0" ProductVersion="3.1.4024.11">
-  <DUT Name="Channel_830843C1" Id="{a366de3e-808a-416a-bc09-05d64b8f10fc}">
+  <DUT Name="Channel_830843C1" Id="{ba341049-600c-49b6-8d3c-32e768792090}">
     <Declaration><![CDATA[{attribute 'GeneratedUsingTerminal: EL1809-0000-0018'}
 {attribute addProperty BoxType "EL1809-0000-0018"}
 {attribute addProperty Id "InputAT %I*BOOL1"}

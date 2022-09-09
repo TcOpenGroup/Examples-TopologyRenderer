@@ -1366,7 +1366,7 @@
 		</System>
 		<Plc>
 			<Project GUID="{63FB65EA-F7D2-48F2-B85D-E627044A4BA7}" Name="Plc1" PrjFilePath="Plc1\Plc1.plcproj" TmcFilePath="Plc1\Plc1.tmc" ReloadTmc="true" AmsPort="851" FileArchiveSettings="#x000e" SymbolicMapping="true">
-				<Instance Id="#x08502000" TcSmClass="TComPlcObjDef" KeepUnrestoredLinks="2" TmcPath="Plc1\Plc1.tmc" TmcHash="{FC268B17-5674-EC11-3B01-A5DD8D502E8F}">
+				<Instance Id="#x08502000" TcSmClass="TComPlcObjDef" KeepUnrestoredLinks="2" TmcPath="Plc1\Plc1.tmc" TmcHash="{C64A3EEC-3CC8-11F8-478A-8BC9AFBF44FC}">
 					<Name>Plc1 Instance</Name>
 					<CLSID ClassFactory="TcPlc30">{08500001-0000-0000-F000-000000000064}</CLSID>
 					<Vars VarGrpType="1">
@@ -2361,6 +2361,102 @@
 						</Var>
 						<Var>
 							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_23_EK1100.Term_33_EL3164.InfoData.State</Name>
+							<Type>UINT</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_23_EK1100.Term_40_EK1110.InfoData.State</Name>
+							<Type>UINT</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.InfoData.State</Name>
+							<Type>UINT</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.Channel_1.Input</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.Channel_2.Input</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.Channel_3.Input</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.Channel_4.Input</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.Channel_5.Input</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.Channel_6.Input</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.Channel_7.Input</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.Channel_8.Input</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.WcState.WcState</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.WcState.InputToggle</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.InfoData.State</Name>
+							<Type>UINT</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.Channel_1.Input</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.Channel_2.Input</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.Channel_3.Input</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.Channel_4.Input</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.Channel_5.Input</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.Channel_6.Input</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.Channel_7.Input</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.Channel_8.Input</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.WcState.WcState</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.WcState.InputToggle</Name>
+							<Type>BOOL</Type>
+						</Var>
+						<Var>
+							<Name>GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.InfoData.State</Name>
 							<Type>UINT</Type>
 						</Var>
 						<Var>
@@ -4435,138 +4531,6 @@
 							<Name>GVL_iXlinker.Device_3_EtherCAT.InfoData.DcToExtTimeOffset</Name>
 							<Type>LINT</Type>
 						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_1.Inputs.SlaveCount</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_1.Inputs.DevState</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_1.Inputs.Frm0State</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_1.Inputs.Frm0WcState</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_1.Inputs.Frm0InputToggle</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_1.InfoData.ChangeCount</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_1.InfoData.DevId</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_1.InfoData.AmsNetId</Name>
-							<Type GUID="{132E66EA-9D48-518D-E919-C407F4B9DB22}" Namespace="TcoIo">TcoAmsNetId</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_1.InfoData.CfgSlaveCount</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_1.InfoData.DcToTcTimeOffset</Name>
-							<Type>LINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_1.InfoData.DcToExtTimeOffset</Name>
-							<Type>LINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_2.Inputs.SlaveCount</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_2.Inputs.DevState</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_2.Inputs.Frm0State</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_2.Inputs.Frm0WcState</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_2.Inputs.Frm0InputToggle</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_2.InfoData.ChangeCount</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_2.InfoData.DevId</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_2.InfoData.AmsNetId</Name>
-							<Type GUID="{132E66EA-9D48-518D-E919-C407F4B9DB22}" Namespace="TcoIo">TcoAmsNetId</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_2.InfoData.CfgSlaveCount</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_2.InfoData.DcToTcTimeOffset</Name>
-							<Type>LINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_2.InfoData.DcToExtTimeOffset</Name>
-							<Type>LINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_3.Inputs.SlaveCount</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_3.Inputs.DevState</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_3.Inputs.Frm0State</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_3.Inputs.Frm0WcState</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_3.Inputs.Frm0InputToggle</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_3.InfoData.ChangeCount</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_3.InfoData.DevId</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_3.InfoData.AmsNetId</Name>
-							<Type GUID="{132E66EA-9D48-518D-E919-C407F4B9DB22}" Namespace="TcoIo">TcoAmsNetId</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_3.InfoData.CfgSlaveCount</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_3.InfoData.DcToTcTimeOffset</Name>
-							<Type>LINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_3.InfoData.DcToExtTimeOffset</Name>
-							<Type>LINT</Type>
-						</Var>
 					</Vars>
 					<Vars VarGrpType="2" AreaNo="1">
 						<Name>PlcTask Outputs</Name>
@@ -5640,42 +5604,6 @@
 						</Var>
 						<Var>
 							<Name>GVL_iXlinker.Device_3_EtherCAT.Outputs.Frm0WcCtrl</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_1.Outputs.DevCtrl</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_1.Outputs.Frm0Ctrl</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_1.Outputs.Frm0WcCtrl</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_2.Outputs.DevCtrl</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_2.Outputs.Frm0Ctrl</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_2.Outputs.Frm0WcCtrl</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_3.Outputs.DevCtrl</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_3.Outputs.Frm0Ctrl</Name>
-							<Type>UINT</Type>
-						</Var>
-						<Var>
-							<Name>MAIN._Diagnostics.Device_3.Outputs.Frm0WcCtrl</Name>
 							<Type>UINT</Type>
 						</Var>
 					</Vars>
@@ -31576,9 +31504,110 @@ Bit1: Value smaller than Limit2]]></Comment>
 								</EtherCAT>
 							</Box>
 							<Box Id="40" BoxType="9099">
-								<Name>Term 32 (EL9011)</Name>
-								<ImageId>1004</ImageId>
-								<EtherCAT CycleMBoxPollingTime="0" VendorId="#x00000002" ProductCode="#x23333050" InfoDataState="false" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL9011 End Terminal" Desc="EL9011" PortABoxInfo="#x01000021"/>
+								<Name>Term 40 (EK1110)</Name>
+								<ImageId>1008</ImageId>
+								<EtherCAT SlaveType="1" PdiType="#x0100" CycleMBoxPollingTime="0" VendorId="#x00000002" ProductCode="#x04562c52" RevisionNo="#x00110000" PortPhys="19" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EK1110 EtherCAT extension" Desc="EK1110" PortABoxInfo="#x01000021"/>
+							</Box>
+						</Box>
+						<Box Id="42" BoxType="9099">
+							<Name>Term 42 (EK1100)</Name>
+							<ImageId>1005</ImageId>
+							<EtherCAT SlaveType="1" PdiType="#x0d00" CycleMBoxPollingTime="0" VendorId="#x00000002" ProductCode="#x044c2c52" RevisionNo="#x00120000" PortPhys="305" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EK1100 EtherCAT Coupler (2A E-Bus)" Desc="EK1100" PortABoxInfo="#x01000028"/>
+							<Box Id="43" BoxType="9099">
+								<Name>Term 43 (EL1008)</Name>
+								<ImageId>7</ImageId>
+								<EtherCAT SlaveType="1" PdiType="#x0104" CycleMBoxPollingTime="0" VendorId="#x00000002" ProductCode="#x03f03052" RevisionNo="#x00120000" RepeatSupport="true" PortPhys="51" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL1008 8Ch. Dig. Input 24V, 3ms" Desc="EL1008" PortABoxInfo="#x0100002a">
+									<SyncMan>001001000000010004000000000000000100001000010000</SyncMan>
+									<Fmmu>0000000000000000000000010000000002000000000000000000000000000000</Fmmu>
+									<Pdo Name="Channel 1" Index="#x1a00" Flags="#x0011" SyncMan="0">
+										<Entry Name="Input" Index="#x6000" Sub="#x01">
+											<Type>BIT</Type>
+										</Entry>
+									</Pdo>
+									<Pdo Name="Channel 2" Index="#x1a01" Flags="#x0011" SyncMan="0">
+										<Entry Name="Input" Index="#x6010" Sub="#x01">
+											<Type>BIT</Type>
+										</Entry>
+									</Pdo>
+									<Pdo Name="Channel 3" Index="#x1a02" Flags="#x0011" SyncMan="0">
+										<Entry Name="Input" Index="#x6020" Sub="#x01">
+											<Type>BIT</Type>
+										</Entry>
+									</Pdo>
+									<Pdo Name="Channel 4" Index="#x1a03" Flags="#x0011" SyncMan="0">
+										<Entry Name="Input" Index="#x6030" Sub="#x01">
+											<Type>BIT</Type>
+										</Entry>
+									</Pdo>
+									<Pdo Name="Channel 5" Index="#x1a04" Flags="#x0011" SyncMan="0">
+										<Entry Name="Input" Index="#x6040" Sub="#x01">
+											<Type>BIT</Type>
+										</Entry>
+									</Pdo>
+									<Pdo Name="Channel 6" Index="#x1a05" Flags="#x0011" SyncMan="0">
+										<Entry Name="Input" Index="#x6050" Sub="#x01">
+											<Type>BIT</Type>
+										</Entry>
+									</Pdo>
+									<Pdo Name="Channel 7" Index="#x1a06" Flags="#x0011" SyncMan="0">
+										<Entry Name="Input" Index="#x6060" Sub="#x01">
+											<Type>BIT</Type>
+										</Entry>
+									</Pdo>
+									<Pdo Name="Channel 8" Index="#x1a07" Flags="#x0011" SyncMan="0">
+										<Entry Name="Input" Index="#x6070" Sub="#x01">
+											<Type>BIT</Type>
+										</Entry>
+									</Pdo>
+								</EtherCAT>
+							</Box>
+							<Box Id="44" BoxType="9099">
+								<Name>Term 44 (EL1008)</Name>
+								<ImageId>7</ImageId>
+								<EtherCAT SlaveType="1" PdiType="#x0104" CycleMBoxPollingTime="0" VendorId="#x00000002" ProductCode="#x03f03052" RevisionNo="#x00120000" RepeatSupport="true" PortPhys="51" MaxSlotCount="256" MaxSlotGroupCount="1" SlotPdoIncrement="1" SlotIndexIncrement="16" Type="EL1008 8Ch. Dig. Input 24V, 3ms" Desc="EL1008" PortABoxInfo="#x0100002b">
+									<SyncMan>001001000000010004000000000000000100001000010000</SyncMan>
+									<Fmmu>0000000000000000000000010000000002000000000000000000000000000000</Fmmu>
+									<Pdo Name="Channel 1" Index="#x1a00" Flags="#x0011" SyncMan="0">
+										<Entry Name="Input" Index="#x6000" Sub="#x01">
+											<Type>BIT</Type>
+										</Entry>
+									</Pdo>
+									<Pdo Name="Channel 2" Index="#x1a01" Flags="#x0011" SyncMan="0">
+										<Entry Name="Input" Index="#x6010" Sub="#x01">
+											<Type>BIT</Type>
+										</Entry>
+									</Pdo>
+									<Pdo Name="Channel 3" Index="#x1a02" Flags="#x0011" SyncMan="0">
+										<Entry Name="Input" Index="#x6020" Sub="#x01">
+											<Type>BIT</Type>
+										</Entry>
+									</Pdo>
+									<Pdo Name="Channel 4" Index="#x1a03" Flags="#x0011" SyncMan="0">
+										<Entry Name="Input" Index="#x6030" Sub="#x01">
+											<Type>BIT</Type>
+										</Entry>
+									</Pdo>
+									<Pdo Name="Channel 5" Index="#x1a04" Flags="#x0011" SyncMan="0">
+										<Entry Name="Input" Index="#x6040" Sub="#x01">
+											<Type>BIT</Type>
+										</Entry>
+									</Pdo>
+									<Pdo Name="Channel 6" Index="#x1a05" Flags="#x0011" SyncMan="0">
+										<Entry Name="Input" Index="#x6050" Sub="#x01">
+											<Type>BIT</Type>
+										</Entry>
+									</Pdo>
+									<Pdo Name="Channel 7" Index="#x1a06" Flags="#x0011" SyncMan="0">
+										<Entry Name="Input" Index="#x6060" Sub="#x01">
+											<Type>BIT</Type>
+										</Entry>
+									</Pdo>
+									<Pdo Name="Channel 8" Index="#x1a07" Flags="#x0011" SyncMan="0">
+										<Entry Name="Input" Index="#x6070" Sub="#x01">
+											<Type>BIT</Type>
+										</Entry>
+									</Pdo>
+								</EtherCAT>
 							</Box>
 						</Box>
 					</Box>
@@ -35599,6 +35628,10 @@ Bit1: Value bigger/equal Limit2]]></Comment>
 				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.SyncUnits.Row_4.PlcTask.InfoData.SlaveCount" VarB="SyncUnits^Row_4^PlcTask^InfoData^SlaveCount"/>
 				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.SyncUnits.Row_4.PlcTask.InfoData.State" VarB="SyncUnits^Row_4^PlcTask^InfoData^State"/>
 				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.SyncUnits.Row_4.PlcTask.WcState.WcState" VarB="SyncUnits^Row_4^PlcTask^WcState^WcState"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.SyncUnits._default.PlcTask.InfoData.ObjectId" VarB="SyncUnits^&lt;default&gt;^PlcTask^InfoData^ObjectId"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.SyncUnits._default.PlcTask.InfoData.SlaveCount" VarB="SyncUnits^&lt;default&gt;^PlcTask^InfoData^SlaveCount"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.SyncUnits._default.PlcTask.InfoData.State" VarB="SyncUnits^&lt;default&gt;^PlcTask^InfoData^State"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.SyncUnits._default.PlcTask.WcState.WcState" VarB="SyncUnits^&lt;default&gt;^PlcTask^WcState^WcState"/>
 				<Link VarA="PlcTask Outputs^GVL_iXlinker.Device_2_EtherCAT.Outputs.DevCtrl" VarB="Outputs^DevCtrl"/>
 				<Link VarA="PlcTask Outputs^GVL_iXlinker.Device_2_EtherCAT.Outputs.Frm0Ctrl" VarB="Outputs^Frm0Ctrl"/>
 				<Link VarA="PlcTask Outputs^GVL_iXlinker.Device_2_EtherCAT.Outputs.Frm0WcCtrl" VarB="Outputs^Frm0WcCtrl"/>
@@ -36314,6 +36347,38 @@ Bit1: Value bigger/equal Limit2]]></Comment>
 				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_23_EK1100.Term_33_EL3164.InfoData.State" VarB="InfoData^State"/>
 				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_23_EK1100.Term_33_EL3164.WcState.InputToggle" VarB="WcState^InputToggle"/>
 				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_23_EK1100.Term_33_EL3164.WcState.WcState" VarB="WcState^WcState"/>
+			</OwnerB>
+			<OwnerB Name="TIID^Device 2 (EtherCAT)^Term 9 (EK1100)^Term 10 (EK1122)^Term 23 (EK1100)^Term 40 (EK1110)">
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_23_EK1100.Term_40_EK1110.InfoData.State" VarB="InfoData^State"/>
+			</OwnerB>
+			<OwnerB Name="TIID^Device 2 (EtherCAT)^Term 9 (EK1100)^Term 10 (EK1122)^Term 42 (EK1100)">
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.InfoData.State" VarB="InfoData^State"/>
+			</OwnerB>
+			<OwnerB Name="TIID^Device 2 (EtherCAT)^Term 9 (EK1100)^Term 10 (EK1122)^Term 42 (EK1100)^Term 43 (EL1008)">
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.Channel_1.Input" VarB="Channel 1^Input"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.Channel_2.Input" VarB="Channel 2^Input"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.Channel_3.Input" VarB="Channel 3^Input"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.Channel_4.Input" VarB="Channel 4^Input"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.Channel_5.Input" VarB="Channel 5^Input"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.Channel_6.Input" VarB="Channel 6^Input"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.Channel_7.Input" VarB="Channel 7^Input"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.Channel_8.Input" VarB="Channel 8^Input"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.InfoData.State" VarB="InfoData^State"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.WcState.InputToggle" VarB="WcState^InputToggle"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_43_EL1008.WcState.WcState" VarB="WcState^WcState"/>
+			</OwnerB>
+			<OwnerB Name="TIID^Device 2 (EtherCAT)^Term 9 (EK1100)^Term 10 (EK1122)^Term 42 (EK1100)^Term 44 (EL1008)">
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.Channel_1.Input" VarB="Channel 1^Input"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.Channel_2.Input" VarB="Channel 2^Input"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.Channel_3.Input" VarB="Channel 3^Input"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.Channel_4.Input" VarB="Channel 4^Input"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.Channel_5.Input" VarB="Channel 5^Input"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.Channel_6.Input" VarB="Channel 6^Input"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.Channel_7.Input" VarB="Channel 7^Input"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.Channel_8.Input" VarB="Channel 8^Input"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.InfoData.State" VarB="InfoData^State"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.WcState.InputToggle" VarB="WcState^InputToggle"/>
+				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_10_EK1122.Term_42_EK1100.Term_44_EL1008.WcState.WcState" VarB="WcState^WcState"/>
 			</OwnerB>
 			<OwnerB Name="TIID^Device 2 (EtherCAT)^Term 9 (EK1100)^Term 34 (EL3403)">
 				<Link VarA="PlcTask Inputs^GVL_iXlinker.Device_2_EtherCAT.Term_9_EK1100.Term_34_EL3403.InfoData.AdsAddr" VarB="InfoData^AdsAddr"/>

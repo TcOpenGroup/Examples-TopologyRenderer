@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TcPlcObject Version="1.2.0.0" ProductVersion="3.1.4024.11">
-  <DUT Name="PM_Outputs_Channel_E5FBDE30" Id="{28043e9e-848c-4984-8515-35ba9dec4b39}">
+  <DUT Name="PM_Outputs_Channel_E5FBDE30" Id="{9f9739a2-0bfa-498a-b753-ba9f9cb4d3c7}">
     <Declaration><![CDATA[{attribute 'GeneratedUsingTerminal: EL3403-0000-0023'}
 {attribute addProperty BoxType "EL3403-0000-0023"}
 {attribute addProperty Id "IndexAT %Q*USINT1"}

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TcPlcObject Version="1.2.0.0" ProductVersion="3.1.4024.11">
-  <DUT Name="AX5101_1BD22F51" Id="{5ff9a1d2-dd6d-4d3e-9d31-5a8d2733f8aa}">
+  <DUT Name="AX5101_1BD22F51" Id="{864f2488-06b7-4155-8246-4533e9a6048e}">
     <Declaration><![CDATA[{attribute 'GeneratedUsingTerminal: AX5101-0000-0214-0214'}
 {attribute addProperty VendorId "#x00000002"}
 {attribute addProperty BoxType "AX5101-0000-0214-0214"}

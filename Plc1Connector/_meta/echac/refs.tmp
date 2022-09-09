@@ -2,10 +2,10 @@
 <ArrayOfValueTupleOfStringString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ValueTupleOfStringString>
     <Item1>TcoIo</Item1>
-    <Item2>0.9.0.3</Item2>
+    <Item2>0.9.0.4</Item2>
   </ValueTupleOfStringString>
   <ValueTupleOfStringString>
     <Item1>TcoCore</Item1>
-    <Item2>0.9.0.3</Item2>
+    <Item2>0.9.0.4</Item2>
   </ValueTupleOfStringString>
 </ArrayOfValueTupleOfStringString>

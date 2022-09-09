@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TcPlcObject Version="1.2.0.0" ProductVersion="3.1.4024.11">
-  <DUT Name="Term_231_EK1100_6FCE8CEB" Id="{aa90d625-53fa-4c5c-9465-dace281c6eed}">
+  <DUT Name="Term_231_EK1100_6FCE8CEB" Id="{ebd4f6e3-345a-4510-b695-9711b53d5572}">
     <Declaration><![CDATA[{attribute 'GeneratedUsingTerminal: EK1100-0000-0018'}
 {attribute addProperty BoxType "EK1100-0000-0018"}
 {attribute addProperty Id "Term_232_EL1809EL1809_32157CFD20"}

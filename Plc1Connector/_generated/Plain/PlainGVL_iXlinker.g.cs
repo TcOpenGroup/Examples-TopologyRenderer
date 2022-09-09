@@ -27,8 +27,8 @@ namespace Plc1
 			}
 		}
 
-		PlainDevice_2_EtherCAT_A8CEDE28 _Device_2_EtherCAT;
-		public PlainDevice_2_EtherCAT_A8CEDE28 Device_2_EtherCAT
+		PlainDevice_2_EtherCAT_CA128DDC _Device_2_EtherCAT;
+		public PlainDevice_2_EtherCAT_CA128DDC Device_2_EtherCAT
 		{
 			get
 			{
@@ -67,7 +67,7 @@ namespace Plc1
 		public PlainGVL_iXlinker()
 		{
 			_Device_1_EtherCAT = new PlainDevice_1_EtherCAT_B557D6C6();
-			_Device_2_EtherCAT = new PlainDevice_2_EtherCAT_A8CEDE28();
+			_Device_2_EtherCAT = new PlainDevice_2_EtherCAT_CA128DDC();
 			_Device_3_EtherCAT = new PlainDevice_3_EtherCAT_CA191EDE();
 		}
 	}

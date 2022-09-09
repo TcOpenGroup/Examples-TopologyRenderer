@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TcPlcObject Version="1.2.0.0" ProductVersion="3.1.4024.11">
-  <DUT Name="L2_Current_Status_FCB7684B" Id="{f40d3169-124d-4012-ad92-58e88ccaa11d}">
+  <DUT Name="L2_Current_Status_FCB7684B" Id="{52b4def7-267c-4efb-be5f-251171c9d7da}">
     <Declaration><![CDATA[{attribute 'GeneratedUsingTerminal: EL3773-0000-0021'}
 {attribute addProperty BoxType "EL3773-0000-0021"}
 {attribute addProperty Id "I2_StatusAT %I*I2_Status_DC9039207"}

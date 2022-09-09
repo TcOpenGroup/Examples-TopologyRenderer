@@ -19,7 +19,7 @@ namespace Plc1
 			get;
 		}
 
-		IDevice_2_EtherCAT_A8CEDE28 Device_2_EtherCAT
+		IDevice_2_EtherCAT_CA128DDC Device_2_EtherCAT
 		{
 			get;
 		}

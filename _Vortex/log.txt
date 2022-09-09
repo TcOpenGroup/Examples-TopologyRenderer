@@ -1189,3 +1189,8 @@
 2022-09-08 17:38:05.235 +02:00 [INF] Emitting files into 'D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\_generated'
 2022-09-08 17:38:05.236 +02:00 [INF] Compiling sources 'Plc1'...
 2022-09-08 17:38:06.793 +02:00 [INF] >>>>>>I, Done
+2022-09-09 15:54:54.809 +02:00 [INF] Builder version : 1.15.10.0 / 1.15.10-alpha.735+Branch.develop.Sha.693c4b7ca219180adbb6301341073392653bbe31
+2022-09-09 15:55:10.269 +02:00 [INF] Cleaning output directory 'D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\_generated'
+2022-09-09 15:55:10.894 +02:00 [INF] Emitting files into 'D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\_generated'
+2022-09-09 15:55:10.896 +02:00 [INF] Compiling sources 'Plc1'...
+2022-09-09 15:55:14.113 +02:00 [INF] >>>>>>I, Done

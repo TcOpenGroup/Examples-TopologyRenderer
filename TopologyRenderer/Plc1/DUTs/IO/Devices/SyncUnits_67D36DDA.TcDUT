@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TcPlcObject Version="1.2.0.0" ProductVersion="3.1.4024.11">
-  <DUT Name="SyncUnits_67D36DDA" Id="{8e9910a6-b2fc-4582-9781-3757139b4ed0}">
+  <DUT Name="SyncUnits_67D36DDA" Id="{9c03913f-7964-430c-89bf-f641f5c47eec}">
     <Declaration><![CDATA[{attribute 'GeneratedUsingTerminal: '}
 {attribute addProperty BoxType ""}
 {attribute addProperty Id "_defaultAT %I*SyncUnitTasks_4BE0146918"}

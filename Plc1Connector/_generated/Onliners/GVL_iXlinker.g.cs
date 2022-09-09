@@ -56,8 +56,8 @@ namespace Plc1
 			}
 		}
 
-		Device_2_EtherCAT_A8CEDE28 _Device_2_EtherCAT;
-		public Device_2_EtherCAT_A8CEDE28 Device_2_EtherCAT
+		Device_2_EtherCAT_CA128DDC _Device_2_EtherCAT;
+		public Device_2_EtherCAT_CA128DDC Device_2_EtherCAT
 		{
 			get
 			{
@@ -65,7 +65,7 @@ namespace Plc1
 			}
 		}
 
-		IDevice_2_EtherCAT_A8CEDE28 IGVL_iXlinker.Device_2_EtherCAT
+		IDevice_2_EtherCAT_CA128DDC IGVL_iXlinker.Device_2_EtherCAT
 		{
 			get
 			{
@@ -73,7 +73,7 @@ namespace Plc1
 			}
 		}
 
-		IShadowDevice_2_EtherCAT_A8CEDE28 IShadowGVL_iXlinker.Device_2_EtherCAT
+		IShadowDevice_2_EtherCAT_CA128DDC IShadowGVL_iXlinker.Device_2_EtherCAT
 		{
 			get
 			{
@@ -282,7 +282,7 @@ namespace Plc1
 			PexPreConstructor(parent, readableTail, symbolTail);
 			Symbol = Vortex.Connector.IConnector.CreateSymbol(parent.Symbol, symbolTail);
 			_Device_1_EtherCAT = new Device_1_EtherCAT_B557D6C6(this, "", "Device_1_EtherCAT");
-			_Device_2_EtherCAT = new Device_2_EtherCAT_A8CEDE28(this, "", "Device_2_EtherCAT");
+			_Device_2_EtherCAT = new Device_2_EtherCAT_CA128DDC(this, "", "Device_2_EtherCAT");
 			_Device_3_EtherCAT = new Device_3_EtherCAT_CA191EDE(this, "", "Device_3_EtherCAT");
 			AttributeName = "";
 			parent.AddChild(this);
@@ -294,7 +294,7 @@ namespace Plc1
 		{
 			PexPreConstructorParameterless();
 			_Device_1_EtherCAT = new Device_1_EtherCAT_B557D6C6();
-			_Device_2_EtherCAT = new Device_2_EtherCAT_A8CEDE28();
+			_Device_2_EtherCAT = new Device_2_EtherCAT_CA128DDC();
 			_Device_3_EtherCAT = new Device_3_EtherCAT_CA191EDE();
 			AttributeName = "";
 			PexConstructorParameterless();

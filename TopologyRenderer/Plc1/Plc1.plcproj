@@ -240,6 +240,9 @@
     <Compile Include="DUTs\IO\Boxes\EL3164_B71BFF42.TcDUT">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="DUTs\IO\Boxes\EL1008_78E8D3DD.TcDUT">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="DUTs\IO\Boxes\EL3403_812980A6.TcDUT">
       <SubType>Code</SubType>
     </Compile>
@@ -279,16 +282,19 @@
     <Compile Include="DUTs\IO\Topology\Term_24_EK1122_39E7B5CB.TcDUT">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="DUTs\IO\Topology\Term_23_EK1100_DFBF0BE4.TcDUT">
+    <Compile Include="DUTs\IO\Topology\Term_23_EK1100_C1096874.TcDUT">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="DUTs\IO\Topology\Term_10_EK1122_3D069EC1.TcDUT">
+    <Compile Include="DUTs\IO\Topology\Term_42_EK1100_1039F2C4.TcDUT">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="DUTs\IO\Topology\Term_9_EK1100_91BFEC25.TcDUT">
+    <Compile Include="DUTs\IO\Topology\Term_10_EK1122_152EB6C2.TcDUT">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="DUTs\IO\Topology\Device_2_EtherCAT_A8CEDE28.TcDUT">
+    <Compile Include="DUTs\IO\Topology\Term_9_EK1100_0DC40061.TcDUT">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DUTs\IO\Topology\Device_2_EtherCAT_CA128DDC.TcDUT">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="DUTs\IO\Topology\Term_157_EK1100_7C4BDD77.TcDUT">
@@ -406,11 +412,11 @@
       <Namespace>Tc3_Module</Namespace>
     </PlaceholderReference>
     <PlaceholderReference Include="TcoCore">
-      <DefaultResolution>TcoCore, 0.9.0.3 (Vortex.Library)</DefaultResolution>
+      <DefaultResolution>TcoCore, 0.9.0.4 (Vortex.Library)</DefaultResolution>
       <Namespace>TcoCore</Namespace>
     </PlaceholderReference>
     <PlaceholderReference Include="TcoIo">
-      <DefaultResolution>TcoIo, 0.9.0.3 (Vortex.Library)</DefaultResolution>
+      <DefaultResolution>TcoIo, 0.9.0.4 (Vortex.Library)</DefaultResolution>
       <Namespace>TcoIo</Namespace>
     </PlaceholderReference>
   </ItemGroup>
@@ -421,10 +427,10 @@
   </ItemGroup>
   <ItemGroup>
     <PlaceholderResolution Include="TcoCore">
-      <Resolution>TcoCore, 0.9.0.3 (Vortex.Library)</Resolution>
+      <Resolution>TcoCore, 0.9.0.4 (Vortex.Library)</Resolution>
     </PlaceholderResolution>
     <PlaceholderResolution Include="TcoIo">
-      <Resolution>TcoIo, 0.9.0.3 (Vortex.Library)</Resolution>
+      <Resolution>TcoIo, 0.9.0.4 (Vortex.Library)</Resolution>
     </PlaceholderResolution>
   </ItemGroup>
   <ProjectExtensions>

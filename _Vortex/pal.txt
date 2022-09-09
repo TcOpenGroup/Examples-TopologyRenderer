@@ -365,3 +365,14 @@
 2022-09-08 17:37:59.507 +02:00 [INF] Updating project Plc1.Plc1
 2022-09-08 17:38:06.535 +02:00 [INF] Compiling plc library Plc1 into D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\_meta\Plc1...
 2022-09-08 17:38:06.743 +02:00 [INF] Library for project Plc1 will not be created because it is not a managed library. If want the library to be compiled you will need to fill in information in property tab of the project.
+2022-09-09 15:54:57.568 +02:00 [INF] Opening solution: D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer.sln
+2022-09-09 15:54:57.732 +02:00 [INF] Language mutation of VS 'en'
+2022-09-09 15:54:57.825 +02:00 [WRN] Project 'Plc1' has no namespace defined. Namespace defaults to project name.
+2022-09-09 15:54:57.886 +02:00 [INF] Loading dependency tree for project 'D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\Plc1Connector.csproj'
+2022-09-09 15:54:58.342 +02:00 [INF] Tc system manager 'D:\github\TcOpenGroup\Examples-TopologyRenderer\TopologyRenderer\TopologyRenderer.tsproj' retrieved.
+2022-09-09 15:54:58.374 +02:00 [INF] Building project 'Plc1.Plc1'
+2022-09-09 15:55:01.148 +02:00 [INF] Installing library 'TcoIo' version '0.9.0.4'
+2022-09-09 15:55:03.205 +02:00 [INF] Installing library 'TcoCore' version '0.9.0.4'
+2022-09-09 15:55:04.105 +02:00 [INF] Updating project Plc1.Plc1
+2022-09-09 15:55:12.525 +02:00 [INF] Compiling plc library Plc1 into D:\github\TcOpenGroup\Examples-TopologyRenderer\Plc1Connector\_meta\Plc1...
+2022-09-09 15:55:14.055 +02:00 [INF] Library for project Plc1 will not be created because it is not a managed library. If want the library to be compiled you will need to fill in information in property tab of the project.

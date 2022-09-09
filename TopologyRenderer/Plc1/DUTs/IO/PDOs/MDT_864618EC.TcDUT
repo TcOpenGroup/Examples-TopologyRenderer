@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TcPlcObject Version="1.2.0.0" ProductVersion="3.1.4024.11">
-  <DUT Name="MDT_864618EC" Id="{35a51747-1419-45c1-a233-72e590677fef}">
+  <DUT Name="MDT_864618EC" Id="{7e6322ce-c3b1-45b5-9fc1-ca006a76d560}">
     <Declaration><![CDATA[{attribute 'GeneratedUsingTerminal: AX5101-0000-0214-0214'}
 {attribute addProperty BoxType "AX5101-0000-0214-0214"}
 {attribute addProperty Id "Master_control_wordAT %Q*UINT2Position_command_valueAT %Q*DINT4"}

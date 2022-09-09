@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TcPlcObject Version="1.2.0.0" ProductVersion="3.1.4024.11">
-  <DUT Name="EL3403_812980A6" Id="{ea396a0b-28d3-466f-9204-3749b4fc44f7}">
+  <DUT Name="EL3403_812980A6" Id="{c8771384-c43d-41bf-8e4d-675ffba0ba3a}">
     <Declaration><![CDATA[{attribute 'GeneratedUsingTerminal: EL3403-0000-0023'}
 {attribute addProperty VendorId "#x00000002"}
 {attribute addProperty BoxType "EL3403-0000-0023"}

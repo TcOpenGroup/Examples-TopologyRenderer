@@ -96,5 +96,8 @@
                 <sim:SimulateState Grid.Column="2" Grid.Row="13" SimulatedState="SlaveSignalsUnexpectedLink"    DataContext="{Binding Plc1.GVL_iXlinker.Device_3_EtherCAT.Term_146_EK1100.Term_147_EK1122.Term_178_EK1100.Term_179_EK1122.Term_182_EK1100.Term_183_EL1809}"/>
             </Grid>
         </TabItem>
+        <TabItem Header="Device2">
+            <wpf:TopologyRenderer DataContext="{Binding Plc1.GVL_iXlinker.Device_2_EtherCAT}"/>
+        </TabItem>
     </TabControl>
 </Window>

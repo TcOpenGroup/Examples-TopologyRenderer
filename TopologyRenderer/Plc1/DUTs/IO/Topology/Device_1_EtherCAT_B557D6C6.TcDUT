@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TcPlcObject Version="1.2.0.0" ProductVersion="3.1.4024.11">
-  <DUT Name="Device_1_EtherCAT_B557D6C6" Id="{9be4855c-f398-43aa-82af-1e8216e7e63f}">
+  <DUT Name="Device_1_EtherCAT_B557D6C6" Id="{6f5cf792-104c-4f82-93fc-058e8689e2cb}">
     <Declaration><![CDATA[{attribute 'GeneratedUsingTerminal: IODEVICETYPE_ETHERCATPROT'}
 {attribute addProperty BoxType "IODEVICETYPE_ETHERCATPROT"}
 {attribute addProperty Id "Term_1_EK1200Term_1_EK1200_B38DC9A8248SyncUnitsSyncUnits_67D36DDA18InputsInputs_A65FACA410OutputsOutputs_23C0ED1D6InfoDataInfoData_84133AC922"}

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TcPlcObject Version="1.2.0.0" ProductVersion="3.1.4024.11">
-  <DUT Name="L3_Current_Samples_B964735E" Id="{7f2059e8-9041-4ef2-83b7-835e7de85bab}">
+  <DUT Name="L3_Current_Samples_B964735E" Id="{c5ae6ab0-7b94-40c6-844d-d752c267a69d}">
     <Declaration><![CDATA[{attribute 'GeneratedUsingTerminal: EL3773-0000-0021'}
 {attribute addProperty BoxType "EL3773-0000-0021"}
 {attribute addProperty Id "I3_SamplesAT %I*I3_Samples_2549228720"}
